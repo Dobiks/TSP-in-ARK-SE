@@ -2,4 +2,4 @@
 
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/Dobiks/TSP-in-ARK-SE/blob/main/map.png?raw=true" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://raw.githubusercontent.com/Dobiks/TSP-in-ARK-SE/main/map.png" width="200" height="400" />
